@@ -25,6 +25,11 @@ Get the total users who completed the order and total orders per month (Jan 2019
  
 ![image](https://user-images.githubusercontent.com/100077706/185785356-ef9d19d9-f664-481d-af5f-79e6a30bf06b.png)
 
+**Insight** : From Jan 2019- April 2022 we can see that the total order and total user relatively growing over years.
+
+![image](https://user-images.githubusercontent.com/100077706/185786090-16553264-4610-415d-8bca-6a399365954f.png)
+
+
 ### 2. Average Order Value (AOV) and Distinct User
 Get average order value and total number of unique users, grouped by month  (Jan 2019-Apr 2022)
 ```sql
