@@ -312,6 +312,3 @@ This query result was then exported to Google Sheets to converted into pivot tab
 
 
 
-
-
-
